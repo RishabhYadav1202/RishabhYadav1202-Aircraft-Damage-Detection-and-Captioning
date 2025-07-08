@@ -1,0 +1,9 @@
+tensorflow==2.17.1
+torch
+transformers==4.38.2
+pandas==2.2.3
+numpy>=1.23.2
+matplotlib==3.9.2
+seaborn
+pillow==11.1.0
+scikit-learn
